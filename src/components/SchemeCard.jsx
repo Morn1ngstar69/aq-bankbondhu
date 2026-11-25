@@ -1,0 +1,12 @@
+import { Check, Plus } from 'lucide-react';
+import { money } from '../utils/finance';
+import { tenureLabel } from '../data/catalog';
+export default function SchemeCard({ scheme, selected, toggle, disabled }) {
+  return <article className="flex flex-col rounded-2xl border border-slate-200 bg-white p-6 transition hover:border-emerald-400">
+    <div className="flex items-center gap-3"><span className="flex h-11 w-11 items-center justify-center rounded-xl bg-paper font-bold text-forest">{scheme.initials}</span><div><p className="text-sm font-semibold">{scheme.bankName}</p><p className="text-xs text-slate-500">Fictional bank</p></div><span className="ml-auto rounded-full bg-emerald-50 px-3 py-1 text-xs font-semibold text-emerald-900">{scheme.type}</span></div>
+    <h3 className="mt-5 text-lg font-semibold text-forest">{scheme.name}</h3><div className="mt-3 flex items-baseline gap-2"><strong className="text-4xl font-semibold tracking-tight text-forest">{scheme.rate.toFixed(2)}%</strong><span className="text-xs text-slate-600">p.a. · sample</span></div>
+    <dl className="my-5 space-y-3 border-y border-slate-100 py-4 text-sm"><div className="flex justify-between gap-3"><dt className="text-slate-600">Minimum {scheme.type === 'DPS' ? '/ month' : 'deposit'}</dt><dd className="font-semibold">{money(scheme.minimumDeposit)}</dd></div><div><dt className="text-slate-600">Available tenure</dt><dd className="mt-1 font-medium">{scheme.tenures.map(tenureLabel).join(' · ')}</dd></div></dl>
+    <details className="mb-5 text-sm"><summary className="cursor-pointer font-medium text-forest">Eligibility & terms</summary><div className="mt-3 space-y-3 text-xs leading-6 text-slate-600"><p>{scheme.interestMethod}.</p><p>{scheme.eligibility}</p><p>{scheme.withdrawal}</p><p>{scheme.branch} {scheme.contact}</p><p>{scheme.rateNote}</p></div></details>
+    <button type="button" aria-pressed={selected} aria-label={`${selected ? 'Remove' : 'Compare'} ${scheme.bankName} ${scheme.name}`} disabled={!selected && disabled} onClick={() => toggle(scheme.id)} className={`mt-auto flex w-full items-center justify-center gap-2 rounded-full border px-4 py-3 text-sm font-semibold ${selected ? 'border-forest bg-forest text-white' : 'border-slate-300 text-forest hover:bg-emerald-50'}`}>{selected ? <Check size={16} /> : <Plus size={16} />}{selected ? 'Added to comparison' : 'Add to compare'}</button>
+  </article>;
+}

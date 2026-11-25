@@ -1,0 +1,9 @@
+import { PageHeading, Disclaimer, ActionLink } from '../components/UI';
+export default function About() {
+  return <><PageHeading eyebrow="Meet BankBondhu" title="A friend for your financial first steps.">BankBondhu helps beginners in Bangladesh understand savings, compare illustrative schemes and explore the numbers before asking a bank the right questions.</PageHeading><div className="mb-8 grid gap-6 md:grid-cols-2">{[
+    ['Education comes first.', 'This is an independent educational prototype, not a bank, broker or financial adviser. It does not open accounts, collect deposits or make personalized recommendations.'],
+    ['The sample data is transparent.', 'The four bank names used for sample schemes, twelve schemes, eligibility details and rates are fictional. The directory lists institutions and website links supplied for reference; inclusion does not verify current status, licensing, rates or terms. Branch and contact fields for sample schemes are explicitly marked as demo information.'],
+    ['Understand the calculation.', 'DPS uses an annuity model with monthly compounding and selectable deposit timing. FDR supports simple interest or annual, quarterly and monthly compounding. Rates remain constant for the selected term.'],
+    ['Your exploration stays here.', 'No login, analytics, external fonts or backend is included. Comparison selections and calculator inputs are held in memory for the current session and reset on a full refresh. No personal financial information is requested.'],
+  ].map(([title, body]) => <section key={title} className="rounded-2xl border border-slate-200 bg-white p-7"><h2 className="text-xl font-semibold text-forest">{title}</h2><p className="mt-4 text-sm leading-7 text-slate-600">{body}</p></section>)}</div><Disclaimer /><div className="mt-8"><ActionLink to="/learn">Start with your first lesson</ActionLink></div></>;
+}

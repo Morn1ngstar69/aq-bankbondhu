@@ -1,0 +1,303 @@
+{
+  "dataStatus": "Illustrative schemes and rates are fictional; directory information is provided for reference.",
+  "currency": "BDT",
+  "directory": [
+    { "name": "AB Bank PLC", "url": "http://www.abbl.com/" },
+    { "name": "Agrani Bank PLC", "url": "http://www.agranibank.org/" },
+    { "name": "Al-Arafah Islami Bank PLC", "url": "http://www.al-arafahbank.com/" },
+    { "name": "Bangladesh Commerce Bank Limited", "url": "http://bcblbd.com/" },
+    { "name": "Bangladesh Development Bank PLC", "url": "http://www.bdbl.com.bd/" },
+    { "name": "Bangladesh Krishi Bank", "url": "http://www.krishibank.org.bd/" },
+    { "name": "Bank Al-Falah Limited", "url": "http://www.bankalfalah.com/" },
+    { "name": "Bank Asia PLC.", "url": "http://www.bankasia-bd.com/" },
+    { "name": "BASIC Bank PLC. (Bangladesh Small Industries and Commerce Bank PLC.)", "url": "https://basicbankplc.com/en" },
+    { "name": "Bengal Commercial Bank PLC.", "url": "https://bgcb.com.bd/" },
+    { "name": "BRAC Bank PLC", "url": "http://www.bracbank.com/" },
+    { "name": "Citibank N.A", "url": "http://www.citi.com/domain/index.htm" },
+    { "name": "Citizens Bank PLC", "url": "https://www.citizensbankbd.com/" },
+    { "name": "City Bank PLC", "url": "http://www.thecitybank.com/" },
+    { "name": "Commercial Bank of Ceylon Limited", "url": "http://www.combank.net/bdweb/" },
+    { "name": "Community Bank Bangladesh PLC.", "url": "http://www.communitybankbd.com/" },
+    { "name": "Dhaka Bank PLC", "url": "http://dhakabankltd.com/" },
+    { "name": "Dutch-Bangla Bank PLC", "url": "http://www.dutchbanglabank.com/" },
+    { "name": "Eastern Bank PLC", "url": "http://www.ebl.com.bd/" },
+    { "name": "Export Import Bank of Bangladesh PLC", "url": "http://www.eximbankbd.com/" },
+    { "name": "First Security Islami Bank PLC", "url": "https://www.fsiblbd.com/" },
+    { "name": "Global Islami Bank PLC", "url": "http://www.globalislamibankbd.com/" },
+    { "name": "Habib Bank Ltd.", "url": "http://globalhbl.com/Bangladesh/" },
+    { "name": "ICB Islamic Bank Ltd.", "url": "http://www.icbislamic-bd.com/" },
+    { "name": "IFIC Bank PLC", "url": "http://www.ificbank.com.bd/" },
+    { "name": "Islami Bank Bangladesh PLC", "url": "http://www.islamibankbd.com/" },
+    { "name": "Jamuna Bank PLC", "url": "http://www.jamunabankbd.com/" },
+    { "name": "Janata Bank PLC", "url": "http://www.janatabank-bd.com/" },
+    { "name": "Meghna Bank PLC", "url": "http://www.meghnabank.com.bd/" },
+    { "name": "Mercantile Bank PLC", "url": "http://www.mblbd.com/" },
+    { "name": "Midland Bank Limited", "url": "http://www.midlandbankbd.net/" },
+    { "name": "Modhumoti Bank PLC", "url": "https://www.modhumotibankplc.com/" },
+    { "name": "Mutual Trust Bank PLC", "url": "http://www.mutualtrustbank.com/" },
+    { "name": "Nagad Digital Bank PLC.", "url": "https://www.bb.org.bd/en/index.php/links/links/9", "note": "Yet not granted permission for Commercial Operation." },
+    { "name": "National Bank of Pakistan", "url": "http://www.nbp.com.pk/" },
+    { "name": "National Bank PLC", "url": "http://www.nblbd.com/" },
+    { "name": "National Credit & Commerce Bank PLC", "url": "http://www.nccbank.com.bd/" },
+    { "name": "NRB Bank PLC", "url": "http://www.nrbbankbd.com/" },
+    { "name": "NRBC Bank PLC", "url": "http://www.nrbcommercialbank.com/" },
+    { "name": "One Bank PLC", "url": "http://www.onebankbd.com/" },
+    { "name": "Padma Bank PLC", "url": "http://www.padmabankbd.com/" },
+    { "name": "Prime Bank PLC", "url": "https://www.primebank.com.bd/" },
+    { "name": "Probashi Kollyan Bank", "url": "http://www.pkb.gov.bd/" },
+    { "name": "Pubali Bank PLC", "url": "http://www.pubalibangla.com/" },
+    { "name": "Rajshahi Krishi Unnayan Bank", "url": "http://www.rakub.org.bd/" },
+    { "name": "Rupali Bank PLC", "url": "https://rupalibank.com.bd/" },
+    { "name": "Sammilito Islami Bank PLC", "url": "https://www.bb.org.bd/en/index.php/links/links/9" },
+    { "name": "SBAC Bank PLC", "url": "http://www.sbacbank.com/" },
+    { "name": "Shahjalal Islami Bank PLC", "url": "http://www.sjiblbd.com/" },
+    { "name": "Shimanto Bank PLC", "url": "https://www.shimantobank.com/" },
+    { "name": "Social Islami Bank PLC", "url": "http://www.siblbd.com/" },
+    { "name": "Sonali Bank PLC", "url": "http://www.sonalibank.com.bd/" },
+    { "name": "Southeast Bank PLC", "url": "https://www.southeastbank.com.bd/" },
+    { "name": "Standard Chartered Bank", "url": "http://www.standardchartered.com/bd" },
+    { "name": "Standard Islami Bank PLC", "url": "http://www.standardbankbd.com/" },
+    { "name": "State Bank of India", "url": "https://bd.statebank/" },
+    { "name": "The Hong Kong and Shanghai Banking Corporation. Ltd.", "url": "http://www.hsbc.com.bd/" },
+    { "name": "The Premier Bank PLC", "url": "http://www.premierbankltd.com/" },
+    { "name": "Trust Bank PLC", "url": "http://www.trustbank.com.bd/" },
+    { "name": "Union Bank PLC", "url": "http://www.unionbank.com.bd/" },
+    { "name": "United Commercial Bank PLC", "url": "http://www.ucb.com.bd/" },
+    { "name": "Uttara Bank PLC", "url": "http://www.uttarabank-bd.com/" },
+    { "name": "Woori Bank", "url": "http://www.wooribank.com/" }
+  ],
+  "banks": [
+    {
+      "id": "bank-1",
+      "name": "Shobuj Bank",
+      "initials": "SB",
+      "description": "Simple savings for everyday ambitions.",
+      "fictional": true,
+      "eligibility": "Illustrative: Bangladesh residents aged 18+, valid NID, photograph and nominee details.",
+      "branch": "Demo branch: Dhaka. No real branch address is provided.",
+      "contact": "Fictional institution \u2014 no real contact number.",
+      "schemes": [
+        {
+          "id": "bank-1-dps",
+          "type": "DPS",
+          "name": "Monthly Builder",
+          "rate": 7.5,
+          "minimumDeposit": 500,
+          "tenures": [
+            12,
+            24,
+            36,
+            60
+          ],
+          "interestMethod": "Monthly compounding; deposits at month end",
+          "withdrawal": "Early closure may reduce interest and incur fees; verify terms.",
+          "rateNote": "Sample nominal annual rate, assumed constant across listed tenures. Not a live offer."
+        },
+        {
+          "id": "bank-1-fdr",
+          "type": "FDR",
+          "name": "Fixed Growth",
+          "rate": 9,
+          "minimumDeposit": 10000,
+          "tenures": [
+            3,
+            6,
+            12,
+            24,
+            36
+          ],
+          "interestMethod": "Simple annual interest; paid at maturity",
+          "withdrawal": "Early closure may reduce interest and incur fees; verify terms.",
+          "rateNote": "Sample nominal annual rate, assumed constant across listed tenures. Not a live offer."
+        },
+        {
+          "id": "bank-1-savings",
+          "type": "Savings",
+          "name": "Everyday Savings",
+          "rate": 3.5,
+          "minimumDeposit": 1000,
+          "tenures": [
+            0
+          ],
+          "interestMethod": "Illustrative annual rate; actual balance and crediting rules vary",
+          "withdrawal": "Flexible access; transaction limits and fees may apply.",
+          "rateNote": "Sample nominal annual rate, assumed constant across listed tenures. Not a live offer."
+        }
+      ]
+    },
+    {
+      "id": "bank-2",
+      "name": "Disha Bank",
+      "initials": "DB",
+      "description": "Make room for your next big milestone.",
+      "fictional": true,
+      "eligibility": "Illustrative: Bangladesh residents aged 18+, valid NID, photograph and nominee details.",
+      "branch": "Demo branch: Dhaka. No real branch address is provided.",
+      "contact": "Fictional institution \u2014 no real contact number.",
+      "schemes": [
+        {
+          "id": "bank-2-dps",
+          "type": "DPS",
+          "name": "Monthly Builder",
+          "rate": 8,
+          "minimumDeposit": 1000,
+          "tenures": [
+            12,
+            24,
+            36,
+            60
+          ],
+          "interestMethod": "Monthly compounding; deposits at month end",
+          "withdrawal": "Early closure may reduce interest and incur fees; verify terms.",
+          "rateNote": "Sample nominal annual rate, assumed constant across listed tenures. Not a live offer."
+        },
+        {
+          "id": "bank-2-fdr",
+          "type": "FDR",
+          "name": "Fixed Growth",
+          "rate": 9.5,
+          "minimumDeposit": 20000,
+          "tenures": [
+            3,
+            6,
+            12,
+            24,
+            36
+          ],
+          "interestMethod": "Simple annual interest; paid at maturity",
+          "withdrawal": "Early closure may reduce interest and incur fees; verify terms.",
+          "rateNote": "Sample nominal annual rate, assumed constant across listed tenures. Not a live offer."
+        },
+        {
+          "id": "bank-2-savings",
+          "type": "Savings",
+          "name": "Everyday Savings",
+          "rate": 4,
+          "minimumDeposit": 2000,
+          "tenures": [
+            0
+          ],
+          "interestMethod": "Illustrative annual rate; actual balance and crediting rules vary",
+          "withdrawal": "Flexible access; transaction limits and fees may apply.",
+          "rateNote": "Sample nominal annual rate, assumed constant across listed tenures. Not a live offer."
+        }
+      ]
+    },
+    {
+      "id": "bank-3",
+      "name": "Nodi Bank",
+      "initials": "NB",
+      "description": "Steady habits. A stronger financial future.",
+      "fictional": true,
+      "eligibility": "Illustrative: Bangladesh residents aged 18+, valid NID, photograph and nominee details.",
+      "branch": "Demo branch: Dhaka. No real branch address is provided.",
+      "contact": "Fictional institution \u2014 no real contact number.",
+      "schemes": [
+        {
+          "id": "bank-3-dps",
+          "type": "DPS",
+          "name": "Monthly Builder",
+          "rate": 7.75,
+          "minimumDeposit": 500,
+          "tenures": [
+            12,
+            24,
+            36,
+            60
+          ],
+          "interestMethod": "Monthly compounding; deposits at month end",
+          "withdrawal": "Early closure may reduce interest and incur fees; verify terms.",
+          "rateNote": "Sample nominal annual rate, assumed constant across listed tenures. Not a live offer."
+        },
+        {
+          "id": "bank-3-fdr",
+          "type": "FDR",
+          "name": "Fixed Growth",
+          "rate": 8.75,
+          "minimumDeposit": 10000,
+          "tenures": [
+            3,
+            6,
+            12,
+            24,
+            36
+          ],
+          "interestMethod": "Simple annual interest; paid at maturity",
+          "withdrawal": "Early closure may reduce interest and incur fees; verify terms.",
+          "rateNote": "Sample nominal annual rate, assumed constant across listed tenures. Not a live offer."
+        },
+        {
+          "id": "bank-3-savings",
+          "type": "Savings",
+          "name": "Everyday Savings",
+          "rate": 3.75,
+          "minimumDeposit": 1000,
+          "tenures": [
+            0
+          ],
+          "interestMethod": "Illustrative annual rate; actual balance and crediting rules vary",
+          "withdrawal": "Flexible access; transaction limits and fees may apply.",
+          "rateNote": "Sample nominal annual rate, assumed constant across listed tenures. Not a live offer."
+        }
+      ]
+    },
+    {
+      "id": "bank-4",
+      "name": "Uday Bank",
+      "initials": "UB",
+      "description": "A fresh start for your savings journey.",
+      "fictional": true,
+      "eligibility": "Illustrative: Bangladesh residents aged 18+, valid NID, photograph and nominee details.",
+      "branch": "Demo branch: Dhaka. No real branch address is provided.",
+      "contact": "Fictional institution \u2014 no real contact number.",
+      "schemes": [
+        {
+          "id": "bank-4-dps",
+          "type": "DPS",
+          "name": "Monthly Builder",
+          "rate": 8.25,
+          "minimumDeposit": 500,
+          "tenures": [
+            12,
+            24,
+            36,
+            60
+          ],
+          "interestMethod": "Monthly compounding; deposits at month end",
+          "withdrawal": "Early closure may reduce interest and incur fees; verify terms.",
+          "rateNote": "Sample nominal annual rate, assumed constant across listed tenures. Not a live offer."
+        },
+        {
+          "id": "bank-4-fdr",
+          "type": "FDR",
+          "name": "Fixed Growth",
+          "rate": 9.25,
+          "minimumDeposit": 10000,
+          "tenures": [
+            3,
+            6,
+            12,
+            24,
+            36
+          ],
+          "interestMethod": "Simple annual interest; paid at maturity",
+          "withdrawal": "Early closure may reduce interest and incur fees; verify terms.",
+          "rateNote": "Sample nominal annual rate, assumed constant across listed tenures. Not a live offer."
+        },
+        {
+          "id": "bank-4-savings",
+          "type": "Savings",
+          "name": "Everyday Savings",
+          "rate": 4.25,
+          "minimumDeposit": 1000,
+          "tenures": [
+            0
+          ],
+          "interestMethod": "Illustrative annual rate; actual balance and crediting rules vary",
+          "withdrawal": "Flexible access; transaction limits and fees may apply.",
+          "rateNote": "Sample nominal annual rate, assumed constant across listed tenures. Not a live offer."
+        }
+      ]
+    }
+  ]
+}

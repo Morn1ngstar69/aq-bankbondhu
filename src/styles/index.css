@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body { @apply m-0 bg-paper font-sans text-slate-800 antialiased; }
+  button, a, input, select, summary { @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-700 focus-visible:ring-offset-4; }
+  button { @apply disabled:cursor-not-allowed disabled:opacity-50; }
+  ::selection { @apply bg-mint text-forest; }
+}

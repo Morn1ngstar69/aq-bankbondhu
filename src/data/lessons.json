@@ -1,0 +1,50 @@
+[
+  {
+    "id": "dps",
+    "title": "DPS: small steps, steady savings",
+    "body": "A recurring deposit builds a savings habit. You put in the same amount every month for an agreed term. Interest depends on the bank\u2019s rate, deposit dates and calculation rules.",
+    "example": "Deposit \u09f31,000 at the end of each month for 12 months at 6% nominal annual interest, compounded monthly. You contribute \u09f312,000 and finish with about \u09f312,336, including \u09f3336 interest.",
+    "takeaway": "Check missed-payment charges and early-closure terms before committing.",
+    "calculator": "DPS"
+  },
+  {
+    "id": "fdr",
+    "title": "FDR: give a lump sum a timeline",
+    "body": "A Fixed Deposit Receipt represents money placed with a bank for a fixed term. You deposit once and agree on a maturity date. Interest may be paid periodically or at maturity.",
+    "example": "Place \u09f3100,000 for 12 months at 8% simple annual interest. Interest = 100,000 \u00d7 0.08 \u00d7 1 = \u09f38,000. Estimated maturity = \u09f3108,000 before deductions.",
+    "takeaway": "Choose a term that matches when you need the money.",
+    "calculator": "FDR"
+  },
+  {
+    "id": "compound",
+    "title": "Compound interest: growth on growth",
+    "body": "Compounding adds earned interest to your balance. Future interest then applies to both your deposit and the interest already earned. Frequency and time both matter.",
+    "example": "\u09f310,000 at 8%, compounded annually: after year 1, \u09f310,800; after year 2, \u09f310,800 \u00d7 1.08 = \u09f311,664. The second year earns \u09f3864.",
+    "takeaway": "Compare compounding frequency as well as the quoted annual rate.",
+    "calculator": null
+  },
+  {
+    "id": "simple",
+    "title": "Simple vs. compound interest",
+    "body": "Simple interest uses only the original deposit. Compound interest also earns returns on accumulated interest. The same quoted rate can produce different maturity values.",
+    "example": "For \u09f310,000 at 8% over 2 years: simple interest gives \u09f311,600; annual compounding gives \u09f311,664. That is a \u09f364 difference before deductions.",
+    "takeaway": "Use the FDR calculator to switch between simple and compound methods.",
+    "calculator": "FDR"
+  },
+  {
+    "id": "emergency",
+    "title": "An emergency fund buys breathing room",
+    "body": "An emergency fund is money reserved for unexpected essential costs. Keep it accessible and separate from everyday spending. The appropriate target depends on expenses, income stability and responsibilities.",
+    "example": "If essential expenses are \u09f325,000 per month, an illustrative 3-month buffer is \u09f375,000. Saving \u09f35,000 monthly reaches that target in 15 months, ignoring interest.",
+    "takeaway": "Start with a small buffer and build a target suited to your situation.",
+    "calculator": null
+  },
+  {
+    "id": "rates",
+    "title": "What a higher rate really changes",
+    "body": "A higher interest rate can increase earnings for the same deposit and period. Also compare fees, access to money and inflation: a bigger balance may not buy more.",
+    "example": "On \u09f3100,000 for 1 year, 7% simple interest earns \u09f37,000; 9% earns \u09f39,000. Difference: \u09f32,000 before taxes and fees. If prices rise 10%, 9% growth still loses purchasing power.",
+    "takeaway": "Compare like-for-like terms. A higher rate alone does not establish suitability.",
+    "calculator": null
+  }
+]
